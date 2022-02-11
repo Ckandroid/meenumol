@@ -85,7 +85,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [[![ckandroid](https://github.com/meenukutty..png?size=100)](https://github.com/ckandroid) 
+  [[[!ckandroid](https://github.com/ckandroid..png?size=100)](https://github.com/ckandroid) 
 
 [Ckandroid](https://github.com/ckandroid)
 
